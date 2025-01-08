@@ -1,16 +1,16 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/jaredddddd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/dev-working_rounded.gif?raw=true" href="https://github.com/jaredddddd" alt="Workspace"  width="40%"/><br> 
 
 </div>
 
 <hr></hr>
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I am currently an undergraduate student at Sun Yat-sen University <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My research interests are Tools-Augmented Agent and AIOps. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Fake it till you make it <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on my Blog<br>
+-  <img alt="GIF" src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/Developer.gif" width="25" /> &nbsp; I am currently an undergraduate student at Sun Yat-sen University <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/message.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My research interests are Tools-Augmented Agent and AIOps. <br>
+- <img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/lightning.gif?raw=true" width="25" />&nbsp;&nbsp; Fake it till you make it <br>
+- <img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on my Blog<br>
 
 
 <div align="center" >
