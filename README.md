@@ -14,7 +14,7 @@
 
 
 <div align="center" >
-<a  href="https://github.com/Jaredddddd">
+<!-- <a  href="https://github.com/Jaredddddd">
 
 <img src="https://raw.githubusercontent.com/Jaredddddd/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/Jaredddddd/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
@@ -27,7 +27,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/Jaredddddd/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-</details>
+</details> -->
 
 <hr></hr>
 
