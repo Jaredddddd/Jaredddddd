@@ -8,7 +8,7 @@
 
 
 -  <img alt="GIF" src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/Developer.gif" width="25" /> &nbsp; I am currently an undergraduate student at Sun Yat-sen University <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/message.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My research interests are Tools-Augmented Agent and AIOps. <br>
+- <img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/message.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My research interests are LLM4SE and microservices reliabilty. <br>
 - <img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/linux_rounded.gif?raw=true" width="25" />&nbsp;&nbsp; Fake it till you make it <br>
 - <img src="https://github.com/Jaredddddd/Jaredddddd/blob/main/imgs/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on my Blog<br>
 
